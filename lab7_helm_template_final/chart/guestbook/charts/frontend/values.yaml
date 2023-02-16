@@ -9,4 +9,4 @@ service:
   type: ClusterIP
   port: 80
 ingress:
-  host: frontend.minikube.local
+  host: frontend.microk8s.local
